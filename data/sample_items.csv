@@ -1,0 +1,31 @@
+city,brand,category,item_name,price_eur,url
+Milano,Terranova,T-shirt,T-shirt basic cotone bianca,9.99,https://example.com/terranova-tee-1
+Milano,H&M,T-shirt,T-shirt regular fit cotone bianca,12.99,https://example.com/hm-tee-1
+Milano,OVS,T-shirt,T-shirt basic uomo cotone bianca,10.95,https://example.com/ovs-tee-1
+Milano,Zara,T-shirt,T-shirt basic in cotone,15.95,https://example.com/zara-tee-1
+Milano,Mango,T-shirt,T-shirt essential cotone,14.99,https://example.com/mango-tee-1
+Milano,Uniqlo,T-shirt,T-shirt crew neck cotone,14.90,https://example.com/uniqlo-tee-1
+Roma,Terranova,T-shirt,T-shirt stampa frontale oversize,12.99,https://example.com/terranova-tee-2
+Roma,H&M,T-shirt,T-shirt graphic relaxed fit,14.99,https://example.com/hm-tee-2
+Roma,OVS,T-shirt,T-shirt con stampa cotone,11.95,https://example.com/ovs-tee-2
+Roma,Zara,T-shirt,T-shirt stampata relaxed,17.95,https://example.com/zara-tee-2
+Roma,Mango,T-shirt,T-shirt graphic print,16.99,https://example.com/mango-tee-2
+Roma,Uniqlo,T-shirt,T-shirt airism graphic,19.90,https://example.com/uniqlo-tee-2
+Torino,Terranova,Jeans,Jeans slim fit blu medio,24.99,https://example.com/terranova-jeans-1
+Torino,H&M,Jeans,Jeans slim fit denim blu,29.99,https://example.com/hm-jeans-1
+Torino,OVS,Jeans,Jeans slim uomo lavaggio medio,27.95,https://example.com/ovs-jeans-1
+Torino,Zara,Jeans,Jeans slim comfort blu,39.95,https://example.com/zara-jeans-1
+Torino,Mango,Jeans,Jeans slim-fit denim,35.99,https://example.com/mango-jeans-1
+Torino,Uniqlo,Jeans,Jeans slim stretch,39.90,https://example.com/uniqlo-jeans-1
+Milano,Terranova,Blazer,Blazer basic nero slim,39.99,https://example.com/terranova-blazer-1
+Milano,H&M,Blazer,Blazer slim fit nero,49.99,https://example.com/hm-blazer-1
+Milano,OVS,Blazer,Blazer sartoriale slim nero,45.95,https://example.com/ovs-blazer-1
+Milano,Zara,Blazer,Blazer slim nero struttura,69.95,https://example.com/zara-blazer-1
+Milano,Mango,Blazer,Blazer fitted nero,59.99,https://example.com/mango-blazer-1
+Milano,Uniqlo,Blazer,Blazer comfort nero,69.90,https://example.com/uniqlo-blazer-1
+Napoli,Terranova,Felpa,Felpa con cappuccio basic,19.99,https://example.com/terranova-felpa-1
+Napoli,H&M,Felpa,Felpa hoodie regular fit,24.99,https://example.com/hm-felpa-1
+Napoli,OVS,Felpa,Felpa cappuccio cotone,22.95,https://example.com/ovs-felpa-1
+Napoli,Zara,Felpa,Felpa con cappuccio minimal,35.95,https://example.com/zara-felpa-1
+Napoli,Mango,Felpa,Felpa hoodie basic,29.99,https://example.com/mango-felpa-1
+Napoli,Uniqlo,Felpa,Felpa dry sweatshirt,34.90,https://example.com/uniqlo-felpa-1
